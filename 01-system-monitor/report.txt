@@ -1,0 +1,32 @@
+===================================
+   System Health Monitoring Report  
+===================================
+Generated on: Fri Apr 10 16:40:48 +07 2026
+
+>>> CPU Usage:
+%Cpu(s):  0.0 us,  2.4 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+>>> Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       433Mi       3.0Gi       3.5Mi       470Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+>>> Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         200G  109G   91G  55% /usr/lib/wsl/drivers
+/dev/sdd       1007G  2.1G  954G   1% /
+none            1.9G   76K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G  488K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             200G  109G   91G  55% /mnt/c
+F:\             168G  4.3G  164G   3% /mnt/f
+G:\             100G   88G   13G  88% /mnt/g
+tmpfs           384M   20K  384M   1% /run/user/1000
+
