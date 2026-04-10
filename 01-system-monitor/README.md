@@ -14,9 +14,12 @@ This project monitors system health including CPU, memory, and disk usage using 
 - Bash Scripting
 ## Goal
 To automate system monitoring and generate a report of CPU, memory, and disk usage, helping in basic system administration and performance tracking.
+
+## Screenshot
+![Output](screenshots/output.png)
+
 ## How to Run
 ```bash
 chmod +x monitor.sh
 ./monitor.sh
-## Screenshot
-![Output](screenshots/output.png)
+
