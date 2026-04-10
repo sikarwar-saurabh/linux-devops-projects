@@ -18,3 +18,5 @@ To automate system monitoring and generate a report of CPU, memory, and disk usa
 ```bash
 chmod +x monitor.sh
 ./monitor.sh
+## Screenshot
+![Output](screenshots/output.png)
